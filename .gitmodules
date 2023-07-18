@@ -1,0 +1,3 @@
+[submodule "requiredModules/CircuitPython_uplot"]
+	path = requiredModules/CircuitPython_uplot
+	url = https://github.com/jposada202020/CircuitPython_uplot.git
